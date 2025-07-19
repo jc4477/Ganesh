@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -77,3 +78,6 @@ team Mahodara
 =======
 # Team-Mahodara-Web
 >>>>>>> c87c6f28cca5f7c3dd72dfc6e2670dd76b80ce61
+=======
+# Ganesh
+>>>>>>> a309c40717e61edd79c54733c9cea763f39dcc58
